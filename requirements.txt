@@ -1,0 +1,11 @@
+customtkinter
+pygame
+pyyaml
+google-genai
+openpyxl
+psutil
+pygetwindow
+pyautogui
+edge-tts
+apscheduler
+requests

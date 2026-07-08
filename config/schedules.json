@@ -1,0 +1,9 @@
+[
+  {
+    "id": "0f2486ad",
+    "hour": 22,
+    "minute": 6,
+    "day_of_week": "*",
+    "command": "open_web https://www.google.com/search?q=antonio+rungio+il+fotografo+più+scemo+di+durazzano"
+  }
+]
